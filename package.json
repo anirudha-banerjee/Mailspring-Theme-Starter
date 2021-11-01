@@ -1,10 +1,10 @@
 {
-  "name": "theme-starter",
-  "title": "Starter Theme",
-  "displayName": "Starter Theme",
+  "name": "sissyphus69-mailspring-theme",
+  "title": "Sissyphus69-dark-1",
+  "displayName": "Sissyphus69 Dark",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A great first dark theme for my personal Mailspring.",
   "license": "MIT",
   "engines": {
     "mailspring": "*"
